@@ -16,7 +16,7 @@ White paper: https://drive.google.com/file/d/1p0M-f-o-D0jOt9R9-dPD1L49ButKYtNN/v
 
 Instagram: https://www.instagram.com/omcoin_official/
 
-Facebook: https://www.facebook.com/omcoin.meditation
+Facebook: https://www.facebook.com/omcoin.official
 
 Twitter: https://twitter.com/omcoin_official
 

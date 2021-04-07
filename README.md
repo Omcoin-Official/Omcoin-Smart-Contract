@@ -12,7 +12,7 @@ Omcoin can be used for less expensive customer listening attention and pronounce
 # Links
 Main site: www.omcoin.cash
 
-White paper: https://drive.google.com/file/d/1p0M-f-o-D0jOt9R9-dPD1L49ButKYtNN/view
+White paper: https://omcoinwhitepaper.s3.us-east-2.amazonaws.com/Omcoin_White_Paper.pdf
 
 Instagram: https://www.instagram.com/omcoin_official/
 
